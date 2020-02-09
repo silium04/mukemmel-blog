@@ -1,7 +1,7 @@
 export const getPosts = () => {
   return [
     {
-      title: "1500TL ödül! Sen de yarışmaya katıl!",
+      title: "1500TL ödül! Sen de yarışmaya test!",
       slug: "yarisma",
       details: require("./posts/yarisma.md").default,
       date: "5 Aralık 2019"
